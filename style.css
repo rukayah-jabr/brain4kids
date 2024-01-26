@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: skyblue;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.title {
+    color: #ff6347;
+    font-size: 3em;
+}
+
+.play-btn {
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.instructions {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.mascot {
+    width: 100px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.settings-btn {
+    background-color: #ddd;
+    color: black;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.settings {
+    margin-top: 20px;
+}
