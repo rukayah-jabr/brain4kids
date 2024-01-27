@@ -1,0 +1,55 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun, playful font */
+    text-align: center;
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333333; /* Darker text for better readability */
+}
+
+h1 {
+    color: #ff69b4; /* Bright pink for the heading */
+    font-size: 36px; /* Larger font size for heading */
+    text-shadow: 2px 2px #ffd700; /* Adding a shadow in a gold color */
+}
+
+.input-button {
+    padding: 15px 30px;
+    margin: 15px;
+    font-size: 20px; /* Larger font for better readability */
+    border-radius: 15px; /* Rounded corners for buttons */
+    border: none; /* Removing default border */
+    box-shadow: 3px 3px #ffd700; /* Adding shadow for depth */
+    cursor: pointer; /* Cursor changes to pointer on hover */
+}
+
+.input-button:hover {
+    opacity: 0.8; /* Slight transparency on hover for interaction feedback */
+}
+
+#lightBulb {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px; /* Making the bulb more rounded */
+    margin: 20px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Adding a subtle shadow for depth */
+}
+
+.bulb-on {
+    background-color: #ffff66; /* Brighter yellow for the on state */
+}
+
+.bulb-off {
+    background-color: #a9a9a9; /* Lighter grey for the off state */
+}
+
+#operator {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px; /* Rounded corners for the dropdown */
+    border: 1px solid #ffd700; /* Gold border for the dropdown */
+    background-color: #ffffff; /* White background for dropdown */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+#operator:hover {
+    background-color: #f0f8ff; /* Light blue background on hover */
+}
