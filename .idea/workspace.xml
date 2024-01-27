@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="534c5081-b6c5-4baa-8274-2712e09ad78b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/geography-earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/joystick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logical-thinking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/math-calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/skull-cartoon-variant-with-tape-on-left-eye.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage/landingPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/landingPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingpage/landingpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/landingpage/landingpage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aziz2935"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="32fddf30-c037-4720-9c5b-ffeca358c0d9" />
+        <option name="url" value="https://github.com/rukayah-jabr/brain4kids.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,6 +78,7 @@
       <recent name="H:\Git\brain4kids\LogicGameAbove10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="H:\Git\brain4kids\landingpage" />
       <recent name="H:\Git\brain4kids" />
     </key>
@@ -76,8 +97,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
