@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Arial', sans-serif;
-    background-color: skyblue;
+    background-color: #f5f5f5;
 }
 
 .container {
@@ -9,12 +9,12 @@ body {
 }
 
 .title {
-    color: #ff6347;
+    color: #ffb2c4;
     font-size: 3em;
 }
 
 .play-btn {
-    background-color: green;
+    background-color: #9fc8d6;
     color: white;
     padding: 15px 30px;
     font-size: 1.5em;
@@ -48,7 +48,7 @@ body {
 }
 
 .settings-btn {
-    background-color: #ddd;
+    background-color: #f5f5f5;
     color: black;
     padding: 10px 20px;
     font-size: 1em;
