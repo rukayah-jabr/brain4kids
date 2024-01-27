@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "H:/Git/brain4kids/landingpage",
+    "last_opened_file_path": "H:/Git/brain4kids/LogicGameAbove10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +47,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Git\brain4kids\LogicGameAbove10" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Git\brain4kids\landingpage" />
       <recent name="H:\Git\brain4kids" />
@@ -60,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706299325124</updated>
-      <workItem from="1706299326406" duration="13160000" />
+      <workItem from="1706299326406" duration="15241000" />
     </task>
     <servers />
   </component>
