@@ -1,5 +1,5 @@
 document.getElementById('playButton').addEventListener('click', function() {
-    alert('Play button clicked!');
+    window.location.href = 'landingpage/landingPage.html';
 });
 
 document.getElementById('settingsButton').addEventListener('click', function() {
